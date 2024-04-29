@@ -1,0 +1,10 @@
+# Weibo
+HOST-SUFFIX,weibo.cn,Social
+HOST-SUFFIX,weibo.com,Social
+HOST-SUFFIX,weibocdn.com,Social
+HOST-KEYWORD,weibo,Social
+# XiaoHongShu
+HOST-SUFFIX,fengkongcloud.com,Social
+HOST-SUFFIX,xhscdn.com,Social
+HOST-SUFFIX,xhscdn.net,Social
+HOST-SUFFIX,xiaohongshu.com,Social
