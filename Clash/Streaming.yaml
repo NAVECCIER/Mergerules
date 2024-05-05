@@ -33,14 +33,6 @@ payload:
   - DOMAIN-SUFFIX,p-cdn.us
   - DOMAIN-SUFFIX,sndcdn.com
   - DOMAIN-SUFFIX,soundcloud.com
-  # > Spotify
-  - PROCESS-NAME,com.spotify.music
-  - DOMAIN-SUFFIX,pscdn.co
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spotify.com
-  - DOMAIN-SUFFIX,spoti.fi
-  - DOMAIN-KEYWORD,spotify.com
-  - DOMAIN-KEYWORD,-spotify-com
   # > TIDAL
   - PROCESS-NAME,com.aspiro.tidal
   - DOMAIN-SUFFIX,tidal.com
