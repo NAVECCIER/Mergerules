@@ -1,4 +1,8 @@
 HOST,api.sprig.com,NGW
+HOST-SUFFIX,amplitude.com,NGW
+HOST-SUFFIX,sardine.ai,NGW
+HOST,nexus-websocket-a.intercom.io,NGW
+HOST-SUFFIX,bugsnag.com,NGW
 HOST-SUFFIX,chippercash.com,NGW
 HOST-KEYWORD,moinepoint,NGW
 HOST-SUFFIX,moinepoint.com,NGW
