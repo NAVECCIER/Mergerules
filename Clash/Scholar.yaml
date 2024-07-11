@@ -166,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,princeton.edu
   - DOMAIN-SUFFIX,proquest.com
   - DOMAIN-SUFFIX,psyccareers.com
+  - DOMAIN-SUFFIX,pubmed.gov
   - DOMAIN-SUFFIX,readcube.com
   - DOMAIN-SUFFIX,researchgate.net
   - DOMAIN-SUFFIX,routledgehandbooks.com
